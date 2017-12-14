@@ -1,0 +1,4 @@
+py_solc==1.4.0
+pysha3==1.0b1
+rlp>=0.4.4
+ethereum==2.0.4
